@@ -3,8 +3,8 @@ Codigo;Departamento;Latitud;Longitud;Confirmed;Recovered;Deaths
 5;Antioquia;7;-75.5;25;0;0
 81;Arauca;70902778;-707616667;0;0;0
 8;Atlántico;10.75;-75;7;0;0
-11001;Bogotá;4.6;-740833333;88;3;1
-13;Bolívar;9;-743333333;14;0;0
+11001;Bogotá;4.6;-740833333;88;3;0
+13;Bolívar;9;-743333333;14;0;1
 15;Boyacá;5.5;-72.5;0;0;0
 23;Caldas;83333333;-756666667;3;0;0
 17;Caquetá;5.25;-75.5;0;0;0
